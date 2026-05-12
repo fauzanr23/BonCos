@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "name": "Nasi Goreng Spesial",
+    "description": "Nasi goreng khas Indonesia yang dimasak dengan bumbu rempah pilihan, dicampur dengan telur, potongan ayam, serta disajikan bersama kerupuk dan irisan mentimun untuk menambah kesegaran.",
+    "price": 25000,
+    "imgUrl": "https://images.unsplash.com/photo-1604908176997-4317a3d5d0ef",
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "id": 2,
+    "name": "Mie Ayam Bakso",
+    "description": "Mie ayam gurih dengan topping ayam berbumbu manis asin, dilengkapi bakso kenyal, pangsit, dan kuah kaldu hangat yang memberikan rasa nyaman saat disantap.",
+    "price": 22000,
+    "imgUrl": "https://images.unsplash.com/photo-1612929633738-8fe44f7ec841",
+    "CategoryId": 1,
+    "AuthorId": 2
+  },
+  {
+    "id": 3,
+    "name": "Sate Ayam Madura",
+    "description": "Potongan daging ayam yang ditusuk dan dibakar hingga harum, disajikan dengan saus kacang khas Madura yang gurih, manis, dan sedikit pedas.",
+    "price": 30000,
+    "imgUrl": "https://images.unsplash.com/photo-1603360946369-dc9bb6258143",
+    "CategoryId": 2,
+    "AuthorId": 2
+  },
+  {
+    "id": 4,
+    "name": "Lemon Tea",
+    "description": "Minuman teh segar yang dipadukan dengan perasan lemon alami, memberikan rasa manis, asam, dan menyegarkan yang cocok diminum saat cuaca panas.",
+    "price": 11000,
+    "imgUrl": "https://images.unsplash.com/photo-1556679343-c7306c1976bc",
+    "CategoryId": 2,
+    "AuthorId": 1
+  },
+  {
+    "id": 5,
+    "name": "Es Cendol",
+    "description": "Minuman tradisional Indonesia dengan cendol kenyal, santan gurih, dan gula merah cair yang manis, disajikan dengan es serut yang menyegarkan.",
+    "price": 18000,
+    "imgUrl": "https://images.unsplash.com/photo-1623065422902-30a2d299bbe4",
+    "CategoryId": 3,
+    "AuthorId": 1
+  },
+  {
+    "id": 6,
+    "name": "Martabak Telur",
+    "description": "Martabak telur yang renyah di luar dan lembut di dalam, berisi campuran telur, daging cincang, dan daun bawang yang dimasak dengan bumbu gurih.",
+    "price": 25000,
+    "imgUrl": "https://images.unsplash.com/photo-1601050690597-df0568f70950",
+    "CategoryId": 4,
+    "AuthorId": 1
+  },
+  {
+    "id": 7,
+    "name": "Ayam Goreng Crispy",
+    "description": "Potongan ayam yang dilapisi tepung berbumbu lalu digoreng hingga renyah di luar namun tetap juicy di dalam, cocok dinikmati dengan saus favorit.",
+    "price": 27000,
+    "imgUrl": "https://images.unsplash.com/photo-1562967914-608f82629710",
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "id": 8,
+    "name": "Nasi Ayam Geprek",
+    "description": "Ayam goreng tepung yang digeprek dengan sambal pedas khas Indonesia, disajikan dengan nasi putih hangat yang membuat rasa pedas semakin nikmat.",
+    "price": 24000,
+    "imgUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec",
+    "CategoryId": 1,
+    "AuthorId": 2
+  },
+  {
+    "id": 9,
+    "name": "Bakso Kuah",
+    "description": "Bakso sapi kenyal yang disajikan dalam kuah kaldu hangat dengan tambahan mie, tahu, dan taburan bawang goreng yang menambah cita rasa.",
+    "price": 20000,
+    "imgUrl": "https://images.unsplash.com/photo-1604908554027-e477d54e85e0",
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "id": 10,
+    "name": "Nasi Uduk",
+    "description": "Nasi yang dimasak dengan santan dan rempah sehingga memiliki aroma harum, disajikan bersama ayam goreng, sambal, telur, dan kerupuk.",
+    "price": 23000,
+    "imgUrl": "https://images.unsplash.com/photo-1630916039853-7b1dfc9d53c7",
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "id": 11,
+    "name": "Kentang Goreng",
+    "description": "Kentang pilihan yang dipotong memanjang lalu digoreng hingga keemasan, menghasilkan tekstur renyah di luar dan lembut di dalam.",
+    "price": 15000,
+    "imgUrl": "https://images.unsplash.com/photo-1576107232684-1279f390859f",
+    "CategoryId": 2,
+    "AuthorId": 2
+  },
+  {
+    "id": 12,
+    "name": "Chicken Nugget",
+    "description": "Potongan nugget ayam yang digoreng hingga renyah dengan rasa gurih, biasanya disajikan dengan saus tomat atau saus sambal.",
+    "price": 18000,
+    "imgUrl": "https://images.unsplash.com/photo-1625943553852-781c6dd46faa",
+    "CategoryId": 2,
+    "AuthorId": 1
+  },
+  {
+    "id": 13,
+    "name": "Roti Bakar Coklat",
+    "description": "Roti bakar yang dipanggang hingga harum dengan lapisan mentega dan topping coklat manis yang meleleh di atasnya.",
+    "price": 16000,
+    "imgUrl": "https://images.unsplash.com/photo-1608198093002-ad4e005484ec",
+    "CategoryId": 2,
+    "AuthorId": 1
+  },
+  {
+    "id": 14,
+    "name": "Pisang Goreng",
+    "description": "Pisang matang yang dibalut adonan tepung lalu digoreng hingga renyah, menghasilkan camilan manis dan hangat yang populer di Indonesia.",
+    "price": 14000,
+    "imgUrl": "https://images.unsplash.com/photo-1604909052743-94e838986d24",
+    "CategoryId": 2,
+    "AuthorId": 2
+  },
+  {
+    "id": 15,
+    "name": "Tahu Crispy",
+    "description": "Potongan tahu yang dilapisi tepung berbumbu lalu digoreng hingga renyah, menghasilkan camilan gurih yang cocok disantap kapan saja.",
+    "price": 12000,
+    "imgUrl": "https://images.unsplash.com/photo-1617196034796-73dfa7b1fd56",
+    "CategoryId": 2,
+    "AuthorId": 1
+  },
+  {
+    "id": 16,
+    "name": "Es Teh Manis",
+    "description": "Minuman teh manis yang disajikan dengan es batu, memberikan sensasi segar yang sederhana namun sangat populer di berbagai tempat makan.",
+    "price": 8000,
+    "imgUrl": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e",
+    "CategoryId": 3,
+    "AuthorId": 1
+  },
+  {
+    "id": 17,
+    "name": "Jus Alpukat",
+    "description": "Minuman jus alpukat segar yang diblender hingga lembut dan dipadukan dengan susu coklat sehingga menghasilkan rasa creamy yang nikmat.",
+    "price": 15000,
+    "imgUrl": "https://images.unsplash.com/photo-1625944525903-cbcd1b8b8b6a",
+    "CategoryId": 3,
+    "AuthorId": 2
+  },
+  {
+    "id": 18,
+    "name": "Es Jeruk",
+    "description": "Minuman jeruk segar yang diperas langsung dari buah jeruk pilihan, memberikan rasa manis dan asam yang menyegarkan.",
+    "price": 12000,
+    "imgUrl": "https://images.unsplash.com/photo-1600271886742-f049cd451bba",
+    "CategoryId": 3,
+    "AuthorId": 1
+  },
+  {
+    "id": 19,
+    "name": "Milkshake Coklat",
+    "description": "Milkshake coklat kental yang dibuat dari es krim dan susu segar, menghasilkan minuman creamy dengan rasa coklat yang kaya.",
+    "price": 18000,
+    "imgUrl": "https://images.unsplash.com/photo-1572490122747-3968b75cc699",
+    "CategoryId": 3,
+    "AuthorId": 2
+  },
+  {
+    "id": 20,
+    "name": "Es Kopi Susu",
+    "description": "Minuman kopi yang dipadukan dengan susu dan es batu, memberikan rasa pahit manis yang seimbang dan menyegarkan.",
+    "price": 20000,
+    "imgUrl": "https://images.unsplash.com/photo-1517701604599-bb29b565090c",
+    "CategoryId": 3,
+    "AuthorId": 1
+  },
+  {
+    "id": 21,
+    "name": "Ice Cream Vanilla",
+    "description": "Es krim vanilla yang lembut dan manis dengan aroma vanilla yang khas, cocok dinikmati sebagai pencuci mulut.",
+    "price": 14000,
+    "imgUrl": "https://images.unsplash.com/photo-1563805042-7684c019e1cb",
+    "CategoryId": 4,
+    "AuthorId": 2
+  },
+  {
+    "id": 22,
+    "name": "Pudding Coklat",
+    "description": "Pudding coklat lembut dengan rasa manis yang pas dan tekstur halus yang mudah dinikmati oleh semua usia.",
+    "price": 13000,
+    "imgUrl": "https://images.unsplash.com/photo-1606312619070-d48b4c652a52",
+    "CategoryId": 4,
+    "AuthorId": 1
+  },
+  {
+    "id": 23,
+    "name": "Cheesecake",
+    "description": "Kue cheesecake dengan tekstur lembut dan creamy yang dipadukan dengan rasa keju yang khas dan sedikit manis.",
+    "price": 22000,
+    "imgUrl": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad",
+    "CategoryId": 4,
+    "AuthorId": 2
+  },
+  {
+    "id": 24,
+    "name": "Brownies",
+    "description": "Kue brownies coklat yang padat dan lembut dengan rasa coklat yang kaya serta tekstur yang sedikit fudgy.",
+    "price": 20000,
+    "imgUrl": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c",
+    "CategoryId": 4,
+    "AuthorId": 1
+  },
+  {
+    "id": 25,
+    "name": "Donat Coklat",
+    "description": "Donat empuk dengan topping coklat manis yang meleleh di atasnya, cocok dinikmati sebagai camilan atau dessert.",
+    "price": 15000,
+    "imgUrl": "https://images.unsplash.com/photo-1551024601-bec78aea704b",
+    "CategoryId": 4,
+    "AuthorId": 2
+  }
+]

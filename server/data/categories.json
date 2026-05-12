@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Drinks"
+  },
+  {
+    "id": 2,
+    "name": "Snacks"
+  },
+  {
+    "id": 3,
+    "name": "Main Course"
+  },
+  {
+    "id": 4,
+    "name": "Desserts"
+  },
+  {
+    "id": 5,
+    "name": "Seafood"
+  },
+  {
+    "id": 6,
+    "name": "Vegetarian"
+  },
+  {
+    "id": 7,
+    "name": "Fast Food"
+  },
+  {
+    "id": 8,
+    "name": "Street Food"
+  }
+]

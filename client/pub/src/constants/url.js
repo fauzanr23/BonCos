@@ -1,0 +1,1 @@
+export const url = "https://hck93-gc01.fauzanr23.com"
